@@ -1,5 +1,5 @@
 .site-hero.inner {
-    margin-bottom: -4rem; /* adjust the value as needed */
+    margin-bottom: -17rem; /* adjust the value as needed */
   }
   
 .site-section {
@@ -7,12 +7,5 @@
   }
 
 
-  @media (max-width: 991.98px) {
-    .inner .col-md-10 {
-      margin-bottom: 20px;
-    }
-    .inner h1 {
-      margin-top: 10px;
-    }
-  }
+  
   
